@@ -11,7 +11,7 @@ title                    : "Xinlei Zhang"
 title_separator          : "-"
 name                     : &name "Xinlei Zhang"
 description              : &description "Researcher at The University of Tokyo"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://xinleiz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xinleiz.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xinlei Zhang"
-  avatar           : "profile.png"
+  avatar           : "profile_color.jpg"
   bio              : "Ph.D. Researcher in Human-Computer Interaction. Former RA (Visiting) at the MIT Media Lab | Human Augmentation, Voice/Speech Interfaces."
   location         : "Tokyo, Japan"
   employer         :
