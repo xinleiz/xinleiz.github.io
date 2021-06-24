@@ -11,17 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, North China University of Technology, 2013
+* B.S. in Computer Science, North China University of Technology, 2013/7
 * M.S. in Applied Computer Science, The University of Tokyo, 2016
 * Ph.D in Applied Computer Science, The University of Tokyo, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**Summer April 2020 ~ NOW: Project Researcher - The University of Tokyo**
+  * Research and development of novel interfaces, interactions, and experiences with cutting-edge technologies from multiple fields. Especially interested  with speech/voice interfaces and multi-modal interfaces.
+  * Research guidance for post-graduate students in the lab.
+  * Research consultants to the lab's partner companies.
 
+**November 2019 ~ December 2019 Research Scientist Internship - CyberAgent AI Lab **
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
